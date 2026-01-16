@@ -154,13 +154,4 @@ A second dashboard was created using the **predicted churn data**.
 
 ---
 
-## 👤 Author
 
-**Fahad VB**
-BTech Graduate | Data Analytics & Machine Learning Enthusiast
-
----
-
-## 📄 License
-
-This project is for **educational and portfolio purposes**.
